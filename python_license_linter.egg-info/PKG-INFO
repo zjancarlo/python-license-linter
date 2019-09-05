@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: python-license-linter
+Version: 0.0.1
+Summary: Gets license information of packages listed in provided requirements.txt and checks them against a list of blacklisted licenses.
+Home-page: https://github.com/zjancarlo/python-license-linter
+Author: Zjan Turla
+Author-email: zjancarlo@gmail.com
+License: UNKNOWN
+Description: # python-license-linter
+        Gets license information of packages listed in provided requirements.txt and checks them against a list of blacklisted licenses.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown

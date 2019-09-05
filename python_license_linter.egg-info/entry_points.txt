@@ -1,0 +1,3 @@
+[console_scripts]
+lint_python_licenses = python_license_linter.lint_python_licenses:main
+
